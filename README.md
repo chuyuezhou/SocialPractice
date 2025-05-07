@@ -1,1 +1,2 @@
-A social practice platform, coded by html, css and javascript
+# social practice platform, coded by html, css and javascript
+# clone my repo and click the index.html
